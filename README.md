@@ -48,8 +48,3 @@ This repository contains solutions for the following Python tasks:
 
 The script will display a plot and print the results for the other tasks in the terminal.
 
----
-
-**You can copy and paste this into a file named `README.md` in your repository.**
-
-Let me know if you need help with anything else!
